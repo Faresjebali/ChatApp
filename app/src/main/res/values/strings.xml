@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DaBois</string>
+    <string name="Email">Email</string>
+    <string name="Pass">Password</string>
+    <string name="Login">Login</string>
+    <string name="email">Email</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already">Already Have Account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="select_user">Select User</string>
+    <string name="ekteb_msg_lena">Ekteb msg lena ..</string>
+</resources>

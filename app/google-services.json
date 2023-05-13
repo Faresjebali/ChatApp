@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2363579490",
+    "project_id": "daboiz-efe71",
+    "storage_bucket": "daboiz-efe71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2363579490:android:e7029fadd09a71db64053b",
+        "android_client_info": {
+          "package_name": "com.dabois"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2363579490-d5j2ibcalq9i20n2qfglkiqo5r9et6bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1xKQWi-VSEVJJhK1FVpjUXZ4XDOJTACA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2363579490-d5j2ibcalq9i20n2qfglkiqo5r9et6bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
