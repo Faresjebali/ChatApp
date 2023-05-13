@@ -1,5 +1,5 @@
 Personal Chat App
-This is a simple chat application that allows you to communicate with your friends and family in real-time. It is built using [insert programming language or framework here] and [insert any other technologies used here].
+This is a simple chat application that allows you to communicate with your friends and family in real-time. It is built using Java and FireBase and Android studio.
 
 Getting Started
 To use this application, you can follow these steps:
@@ -19,7 +19,7 @@ Private messaging: You can send private messages to other users.
 Technologies Used
 This application was built using the following technologies:
 
-[insert programming language or framework here]
-[insert any other technologies used here]
+Java
+FireBase
 Contributions
 This is a personal project, but if you have any suggestions or find any bugs, feel free to create an issue or submit a pull request
